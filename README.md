@@ -1,8 +1,11 @@
 # Kategori Rumpun Ilmu Dosen Kemendikbud
-Repository ini dibuat untuk mempermudah dosen dalam memilih bidang keilmuan sesuai dengan [aturan baru dari Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbud)](https://pusatinformasi.sister.kemdikbud.go.id/hc/en-gb/articles/31608506732057-Informasi-Umum-Rumpun-Ilmu). Informasi tabel dibaca secara otomatis dari file PDF yang tersedia dan data divisualisasi menggunakan `sunburst chart`. Fokus dari proyek ini adalah pada bidang ilmu hayati dan kesehatan.
+Repository ini dibuat untuk mempermudah dosen dalam memilih bidang keilmuan sesuai dengan [aturan baru dari Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbud)](https://pusatinformasi.sister.kemdikbud.go.id/hc/en-gb/articles/31608506732057-Informasi-Umum-Rumpun-Ilmu). Informasi tabel dibaca secara otomatis dari file PDF* yang tersedia dan data divisualisasi menggunakan `sunburst chart`. Fokus dari proyek ini adalah pada bidang ilmu hayati dan kesehatan.
 
 Hasil Visualisasi dapat dilihat di: 
 - [Visualisasi Rumpun Ilmu Hayati & Kesehatan](https://htmlpreview.github.io/?https://github.com/lab-biotek-bio-ugm/rumpun_ilmu_kemdikbud/blob/main/figures/3_sunburst_chart_bio_INDONESIA.html)
+- [Tabel (.tsv)](data/processed/Daftar_Rumpun_Pohon_dan_Cabang_Ilmu_(Diperbarui_05_Juni_2024).tsv)
+
+> *\*PS: Honestly, they can just give us the d\*mn table* :confused:
 
 # Struktur Repository
 
